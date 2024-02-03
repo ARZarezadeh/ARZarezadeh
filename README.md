@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARZarezadeh
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning html & css & js
+- 👀 I’m a Jounior BackEnd Web Developer
+- 🌱 I’m currently learning NestJs
 - 💞️ I’m looking to collaborate ___
 - 📫 How to reach me: alirezazz.abar@gmail.com
 
